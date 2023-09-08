@@ -1,6 +1,6 @@
 # Java Concurrency Examples
 
-This  repository contains illustrative examples of various Java concurrency mechanisms to help developers better understand and harness the power of multi-threading and parallel processing in Java applications.
+This repository contains illustrative examples of various Java concurrency mechanisms to help developers better understand and harness the power of multi-threading and parallel processing in Java applications.
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ Concurrency can greatly enhance the performance of applications but it also brin
 
 A semaphore is a synchronization mechanism that controls the number of threads that can access a resource or perform a particular action at the same time.
 
-[See Semaphore Example](./src/main/java/semaphore)
+[See Semaphore Example](./src/main/java/services/SemaphoreExample)
 
 ### CyclicBarrier
 
