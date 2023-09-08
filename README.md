@@ -1,6 +1,6 @@
 # Java Concurrency Examples
 
-This repository contains illustrative examples of various Java concurrency mechanisms to help developers better understand and harness the power of multi-threading and parallel processing in Java applications.
+This  repository contains illustrative examples of various Java concurrency mechanisms to help developers better understand and harness the power of multi-threading and parallel processing in Java applications.
 
 ## Table of Contents
 
