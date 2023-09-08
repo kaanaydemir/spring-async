@@ -29,7 +29,7 @@ Concurrency can greatly enhance the performance of applications but it also brin
 
 A semaphore is a synchronization mechanism that controls the number of threads that can access a resource or perform a particular action at the same time.
 
-[See Semaphore Example](./src/main/java/services/SemaphoreExample)
+[See Semaphore Example](https://github.com/kaanaydemir/spring-async/blob/master/src/main/java/com/kaanaydemir/springasync/services/SemaphoreExample.java)
 
 ### CyclicBarrier
 
