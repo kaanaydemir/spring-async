@@ -47,35 +47,8 @@ CountDownLatch is a synchronization aid that allows one or more threads to wait 
 
 A modern and powerful way to handle asynchronous computations in Java.
 
-#### runAsync
+[See CompletableFuture Example](https://github.com/kaanaydemir/spring-async/blob/master/src/main/java/com/kaanaydemir/springasync/services/ExampleService.java)
 
-Executes a task asynchronously using `CompletableFuture.runAsync`.
-
-[See runAsync Example](./src/main/java/completablefuture/runasync)
-
-#### completedFuture
-
-Creates a `CompletableFuture` that is already completed with a specified value.
-
-[See completedFuture Example](./src/main/java/completablefuture/completedfuture)
-
-#### allOf
-
-Waits for the completion of all futures provided.
-
-[See allOf Example](./src/main/java/completablefuture/allof)
-
-#### join
-
-Waits for the completion of the CompletableFuture without throwing a checked exception.
-
-[See join Example](./src/main/java/completablefuture/join)
-
-#### supplyAsync
-
-Runs a task asynchronously and returns a future representing the result of the computation.
-
-[See supplyAsync Example](./src/main/java/completablefuture/supplyasync)
 
 ## How to Run
 
