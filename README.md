@@ -35,31 +35,13 @@ A semaphore is a synchronization mechanism that controls the number of threads t
 
 CyclicBarrier is a synchronization aid that allows a group of threads to wait for each other to reach a common barrier point.
 
-[See CyclicBarrier Example](./src/main/java/cyclicbarrier)
+[See CyclicBarrier Example](https://github.com/kaanaydemir/spring-async/blob/master/src/main/java/com/kaanaydemir/springasync/services/CyclicBarrierExample.java)
 
 ### CountDownLatch
 
 CountDownLatch is a synchronization aid that allows one or more threads to wait until a set of operations being performed by other threads completes.
 
-[See CountDownLatch Example](./src/main/java/countdownlatch)
-
-### Thread
-
-Examples to demonstrate creating threads using the `Thread` class.
-
-[See Thread Example](./src/main/java/thread)
-
-### Runnable
-
-Illustrates the `Runnable` interface, which is designed to represent tasks that can be executed concurrently.
-
-[See Runnable Example](./src/main/java/runnable)
-
-### Callable
-
-Demonstrates the `Callable` interface, which is similar to `Runnable` but can return a result or throw an exception.
-
-[See Callable Example](./src/main/java/callable)
+[See CountDownLatch Example](https://github.com/kaanaydemir/spring-async/blob/master/src/main/java/com/kaanaydemir/springasync/services/CountDownLatchExample.java)
 
 ### CompletableFuture
 
